@@ -1,7 +1,8 @@
 Course: COL333(Autumn'17): Artificial Intelligence
+
 Assignment 2: Block World Problem
-Creators: 2015TT10917, Navreet Kaur
-	  2015CS10207, Aditya Sahdev
+
+Creators: 2015TT10917, Navreet Kaur  and   2015CS10207, Aditya Sahdev
 
 - Each block is uniquely identified by its single character name. No two different blocks can have the same name.
 - State of the system can be defined by a set of predicates. Start and Goal states must be mentioned by the user initially. The predicates mean the folling:
